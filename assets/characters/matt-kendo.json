@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				91,
+				180
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Sing Right instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				26,
+				290
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Sing Up instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				190,
+				-13
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Sing Down instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				71,
+				14
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Sing Left instance",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/kendo",
+	"position": [
+		-50,
+		330
+	],
+	"healthicon": "mattkendo",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		128,
+		0
+	],
+	"camera_position": [
+		60,
+		-20
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 1
+}

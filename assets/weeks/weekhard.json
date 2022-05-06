@@ -1,0 +1,31 @@
+{
+	"songs": [
+		[
+			"Foolhardy",
+			"zardy",
+			[
+				140,
+				22,
+				22
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "zwewewezzwe",
+	"weekName": "hard",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

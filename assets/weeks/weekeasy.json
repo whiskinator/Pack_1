@@ -1,0 +1,49 @@
+{
+	"songs": [
+		[
+			"Dodging",
+			"mattkendo",
+			[
+				0,
+				128,
+				72
+			]
+		],
+		[
+			"Warm Up",
+			"matt",
+			[
+				0,
+				128,
+				72
+			]
+		],
+		[
+			"Gunpowder",
+			"hank",
+			[
+				0,
+				128,
+				72
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "Easy, Normal, Hard",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "zwewewezzwe",
+	"weekName": "hard",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
